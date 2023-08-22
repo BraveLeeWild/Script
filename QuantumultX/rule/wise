@@ -1,0 +1,6 @@
+HOST-SUFFIX,*.wise.com,wise
+HOST-SUFFIX,wise.com,wise
+DOMAIN-SUFFIX,*.wise.com,wise
+DOMAIN-SUFFIX,wise.com,wise
+HOST-KEYWORD,wise,wise
+USER-AGENT,wise*,wise
