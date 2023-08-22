@@ -1,2 +1,7 @@
+HOST-SUFFIX,*.stripe.com,stripe
 HOST-SUFFIX,stripe.com,stripe
 HOST-SUFFIX,dashboard.stripe.com,stripe
+DOMAIN-SUFFIX,*.stripe.com,stripe
+DOMAIN-SUFFIX,stripe.com,stripe
+HOST-KEYWORD,stripe,stripe
+USER-AGENT,stripe*,stripe
