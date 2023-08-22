@@ -1,0 +1,7 @@
+HOST-SUFFIX,*.bitfinex.com,bitfinex
+HOST-SUFFIX,www.bitfinex.com,bitfinex
+HOST-SUFFIX,bitfinex.com,bitfinex
+DOMAIN-SUFFIX,*.bitfinex.com,bitfinex
+DOMAIN-SUFFIX,bitfinex.com,bitfinex
+HOST-KEYWORD,bitfinex,bitfinex
+USER-AGENT,bitfinex*,bitfinex
