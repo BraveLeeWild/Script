@@ -1,0 +1,6 @@
+HOST-SUFFIX,*.nexo.com,nexo
+HOST-SUFFIX,nexo.com,nexo
+DOMAIN-SUFFIX,*.nexo.com,nexo
+DOMAIN-SUFFIX,nexo.com,nexo
+HOST-KEYWORD,nexo,nexo
+USER-AGENT,nexo*,nexo
