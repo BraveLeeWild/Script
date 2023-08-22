@@ -1,4 +1,3 @@
-HOST-SUFFIX,*.kraken.com,kraken
 HOST-SUFFIX,www.kraken.com,kraken
 HOST-SUFFIX,kraken.com,kraken
 DOMAIN-SUFFIX,*.kraken.com,kraken
