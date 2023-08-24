@@ -1,4 +1,7 @@
-#小火箭-tiktok
+#desc=小火箭-tiktok
+
+#system=ios
+
 
 [URL Rewrite]
 (?<=_region=)CN(?=&) US 307
