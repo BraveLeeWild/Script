@@ -1,0 +1,5 @@
+HOST-SUFFIX,qq.com,qq
+HOST-SUFFIX,www.qq.com,qq
+DOMAIN-SUFFIX,qq.com,qq
+HOST-KEYWORD,qq,qq
+USER-AGENT,qq*,qq
