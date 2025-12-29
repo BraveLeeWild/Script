@@ -1,4 +1,4 @@
-HOST-SUFFIX,wildberries.ru,wildberries,wb.ru
-DOMAIN-SUFFIX,wildberries.ru,wildberries,wb.ru
-HOST-KEYWORD,wildberries,wildberries,wb.ru
-USER-AGENT,wildberries*,wildberries,wb.ru
+HOST-SUFFIX,wildberries.ru,wildberries,wb.ru,wbbasket.ru
+DOMAIN-SUFFIX,wildberries.ru,wildberries,wb.ru,wbbasket.ru
+HOST-KEYWORD,wildberries,wildberries,wb.ru,wbbasket.ru
+USER-AGENT,wildberries*,wildberries,wb.ru,wbbasket.ru
